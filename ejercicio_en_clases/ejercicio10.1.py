@@ -1,0 +1,6 @@
+cad = input("Cadenas: ")
+print(cad[:2])
+print(cad[-2:])
+print(cad[::2])
+print(cad[::-1])
+print(cad+cad[::-1])
